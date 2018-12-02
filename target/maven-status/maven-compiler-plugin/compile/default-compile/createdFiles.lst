@@ -1,0 +1,7 @@
+com\wiggin\springboot\demo\controller\StudentController.class
+com\wiggin\springboot\demo\model\Student.class
+com\wiggin\springboot\demo\service\StudentService.class
+com\wiggin\springboot\demo\main\Main.class
+com\wiggin\springboot\demo\aspect\ControllerAspect.class
+com\wiggin\springboot\demo\dao\StudentMapper.class
+com\wiggin\springboot\demo\serviceImpl\StudentServiceImpl.class
