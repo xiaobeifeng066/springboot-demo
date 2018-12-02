@@ -46,6 +46,7 @@ public class StudentController {
         student.setBirth(new Date());
         student.setDepartment("纪检部");
         student.setSex("男");
+        System.out.println("这是dev2");
         return student;
     }
 }
